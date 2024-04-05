@@ -1,3 +1,2 @@
 hey i am ansh
-this  is git hub 
-repository
+this  is git hub .
